@@ -1,6 +1,4 @@
 <?php
-// includes/header.php — En-tête commun (nav + ouverture du body)
-// Nécessite config.php avant
 
 $page_actuelle = basename($_SERVER['PHP_SELF'], '.php');
 ?>
